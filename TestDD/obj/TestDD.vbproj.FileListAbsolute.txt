@@ -1,0 +1,10 @@
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\bin\Debug\TestDD.exe
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\bin\Debug\TestDD.pdb
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\bin\Debug\TestDD.xml
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\obj\Debug\ResolveAssemblyReference.cache
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\obj\Debug\TestDD.CRUD.resources
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\obj\Debug\TestDD.Resources.resources
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\obj\Debug\TestDD.vbproj.GenerateResource.Cache
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\obj\Debug\TestDD.exe
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\obj\Debug\TestDD.xml
+D:\arti\ayah\Test\DDTech\Rental\TestDD\TestDD\obj\Debug\TestDD.pdb
